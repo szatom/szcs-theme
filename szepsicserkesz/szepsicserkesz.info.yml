@@ -1,0 +1,10 @@
+name: szepsicserkész
+type: theme
+description: subtheme of MAYO
+package: Other
+core: 8.x
+libraries:
+  - szepsicserkesz/global-styling
+
+base theme: mayo
+
